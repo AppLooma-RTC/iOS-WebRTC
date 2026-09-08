@@ -1,0 +1,13 @@
+This package redistributes a prebuilt WebRTC framework.
+
+The framework is derived from the WebRTC project and from LiveKit's WebRTC
+build, distributed under the MIT License and the WebRTC project's BSD licence
+respectively. Copyright notices from those projects are retained inside the
+framework.
+
+Redistributed by AppLooma LLC as AppLoomaWebRTC. The binary is byte-for-byte the
+upstream artefact; only the Swift package metadata around it differs, and the
+checksum in Package.swift can be used to confirm that.
+
+Upstream artefact: LiveKitWebRTC.xcframework.zip 150.7871.01
+SHA-256: 75ba3e7d596bc1ebe35c22472491a3dab8ddc7d22a0281ccaaeb92f2b53fc659
