@@ -26,7 +26,7 @@ let package = Package(
         // to, and it is ours.
         .binaryTarget(
             name: "LiveKitWebRTC",
-            url: "https://github.com/apploomadev/iOS-WebRTC/releases/download/150.7871.01/LiveKitWebRTC.xcframework.zip",
+            url: "https://github.com/AppLooma-RTC/iOS-WebRTC/releases/download/150.7871.01/LiveKitWebRTC.xcframework.zip",
             checksum: "75ba3e7d596bc1ebe35c22472491a3dab8ddc7d22a0281ccaaeb92f2b53fc659"
         ),
     ]
